@@ -1,5 +1,5 @@
 # Assignment-01
-A simple backend API for school system which supports CRUD operations  on schools, teachers , students , classes.
+A simple backend API for school system which supports CRUD operations  on schools, teachers , students , classes, Parents.
 
 This contains ONLY backend code with full CRUD operations along with fiql wih page limit feature.
 
@@ -20,3 +20,5 @@ Description :
 ○ Many classes
 
 ○ Many students
+
+● Parent can have more than one child
